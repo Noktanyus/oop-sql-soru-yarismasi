@@ -1,1 +1,2 @@
-# oop-sql-soru-yarismasi
+# basic-soru-sorma
+juri oldgumuz sunumda sunuculari teste tabi tutmak icin yaptigim sistem
